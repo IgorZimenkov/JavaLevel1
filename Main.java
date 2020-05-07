@@ -53,7 +53,7 @@ public class Main {
         double Double = 1.000000000000000001;
         boolean Boolean = true;
         byte Byte = 1;
-        long Long = 123456776;
+        long Long = 123456776L;
 
 
         doMath(10, 20, 30, 40);
